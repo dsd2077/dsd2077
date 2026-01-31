@@ -32,8 +32,7 @@
     <td width="50%">
       <h3 align="center">
         <a href="https://github.com/dsd2077/Chaterm" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/206796645?v=4" alt="Chaterm" width="28" height="28" style="vertical-align: middle; margin-right: 8px;" />
-          Chaterm
+          <img src="https://avatars.githubusercontent.com/u/206796645?v=4" alt="Chaterm" width="28" height="28" style="vertical-align: middle; margin-right: 8px;" />Chaterm
         </a>
       </h3>
       <p align="center">Smart, agentic AI terminal for DevOps with SSH client capabilities. Built with TypeScript, Vue, and Electron.</p>
@@ -41,8 +40,7 @@
     <td width="50%">
       <h3 align="center">
         <a href="https://github.com/dsd2077/FeedSwitch" target="_blank">
-          <img src="https://lh3.googleusercontent.com/kRusJet3La1D0d5gj92wrahSPqnl9pbuCRqN3GElSL9FkrBidperedy0wQmzJIRZenvO2ZJleHJQ0ibfnBxNZtAngg=s120" alt="FeedSwitch" width="28" height="28" style="vertical-align: middle; margin-right: 8px;" />
-          FeedSwitch
+          <img src="https://lh3.googleusercontent.com/kRusJet3La1D0d5gj92wrahSPqnl9pbuCRqN3GElSL9FkrBidperedy0wQmzJIRZenvO2ZJleHJQ0ibfnBxNZtAngg=s120" alt="FeedSwitch" width="28" height="28" style="vertical-align: middle; margin-right: 8px;" />FeedSwitch
         </a>
       </h3>
       <p align="center">Browser extension to manage time spent on websites and block distracting content. Focus on productivity!</p>
@@ -52,8 +50,7 @@
     <td width="50%">
       <h3 align="center">
         <a href="https://github.com/dsd2077/miniob-2023" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/82347605?s=200&v=4" alt="miniob-2023" width="28" height="28" style="vertical-align: middle; margin-right: 8px;" />
-          miniob-2023
+          <img src="https://avatars.githubusercontent.com/u/82347605?s=200&v=4" alt="miniob-2023" width="28" height="28" style="vertical-align: middle; margin-right: 8px;" />miniob-2023
         </a>
       </h3>
       <p align="center">Relational database implementation project. Deep dive into database internals with C++.</p>
@@ -61,8 +58,7 @@
     <td width="50%">
       <h3 align="center">
         <a href="https://github.com/dsd2077/seaweedfs" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/11985425?s=200&v=4" alt="SeaweedFS" width="28" height="28" style="vertical-align: middle; margin-right: 8px;" />
-          SeaweedFS
+          <img src="https://avatars.githubusercontent.com/u/11985425?s=200&v=4" alt="SeaweedFS" width="28" height="28" style="vertical-align: middle; margin-right: 8px;" />SeaweedFS
         </a>
       </h3>
       <p align="center">Fast distributed storage system for blobs, objects, and files. Supporting cloud tiering, S3 API, and more.</p>
@@ -73,7 +69,6 @@
 ### 🎓 Learning Projects
 - **[MIT6.824](https://github.com/dsd2077/MIT6.824)** - Distributed Systems (Go)
 - **[CMU15-445](https://github.com/dsd2077/CMU15-445)** - Database Systems (C++)
-- **[terminal-bench](https://github.com/dsd2077/terminal-bench)** - LLM benchmark for terminal tasks (Python)
 
 ---
 
@@ -102,12 +97,12 @@
 
 ### Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vue,html,css,electron,react" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=vue,html,css,electron,tailwind,less,vite,pinia,eslint,prettier" alt="Frontend" />
 </p>
 
 ### Backend & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,docker,git,github,bash,vim" alt="Backend & Tools" />
+  <img src="https://skillicons.dev/icons?i=nodejs,docker,nginx,git,github" alt="Backend & Tools" />
 </p>
 
 ### Databases & Systems
@@ -117,27 +112,20 @@
 
 ### AI & Machine Learning
 <p align="left">
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">LangChain</a>
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="AI Tools" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <br/>
+  <img src="https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge&logo=python&logoColor=white" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6584?style=for-the-badge&logo=chromatic&logoColor=white" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/Weaviate-00C48C?style=for-the-badge&logo=weaviate&logoColor=white" alt="Weaviate" />
+  <img src="https://img.shields.io/badge/FAISS-0081FB?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dsd2077&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsd2077&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dsd2077&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dsd2077&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
 
