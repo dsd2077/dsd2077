@@ -30,41 +30,41 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Chaterm</h3>
-      <p align="center">
+      <h3 align="center">
         <a href="https://github.com/dsd2077/Chaterm" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsd2077&repo=Chaterm&theme=radical" alt="Chaterm" />
+          <img src="https://avatars.githubusercontent.com/u/206796645?v=4" alt="Chaterm" width="28" height="28" style="vertical-align: middle; margin-right: 8px;" />
+          Chaterm
         </a>
-      </p>
+      </h3>
       <p align="center">Smart, agentic AI terminal for DevOps with SSH client capabilities. Built with TypeScript, Vue, and Electron.</p>
     </td>
     <td width="50%">
-      <h3 align="center">FeedSwitch</h3>
-      <p align="center">
+      <h3 align="center">
         <a href="https://github.com/dsd2077/FeedSwitch" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsd2077&repo=FeedSwitch&theme=radical" alt="FeedSwitch" />
+          <img src="https://lh3.googleusercontent.com/kRusJet3La1D0d5gj92wrahSPqnl9pbuCRqN3GElSL9FkrBidperedy0wQmzJIRZenvO2ZJleHJQ0ibfnBxNZtAngg=s120" alt="FeedSwitch" width="28" height="28" style="vertical-align: middle; margin-right: 8px;" />
+          FeedSwitch
         </a>
-      </p>
+      </h3>
       <p align="center">Browser extension to manage time spent on websites and block distracting content. Focus on productivity!</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">miniob-2023</h3>
-      <p align="center">
+      <h3 align="center">
         <a href="https://github.com/dsd2077/miniob-2023" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsd2077&repo=miniob-2023&theme=radical" alt="miniob-2023" />
+          <img src="https://avatars.githubusercontent.com/u/82347605?s=200&v=4" alt="miniob-2023" width="28" height="28" style="vertical-align: middle; margin-right: 8px;" />
+          miniob-2023
         </a>
-      </p>
+      </h3>
       <p align="center">Relational database implementation project. Deep dive into database internals with C++.</p>
     </td>
     <td width="50%">
-      <h3 align="center">SeaweedFS</h3>
-      <p align="center">
+      <h3 align="center">
         <a href="https://github.com/dsd2077/seaweedfs" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsd2077&repo=seaweedfs&theme=radical" alt="seaweedfs" />
+          <img src="https://avatars.githubusercontent.com/u/11985425?s=200&v=4" alt="SeaweedFS" width="28" height="28" style="vertical-align: middle; margin-right: 8px;" />
+          SeaweedFS
         </a>
-      </p>
+      </h3>
       <p align="center">Fast distributed storage system for blobs, objects, and files. Supporting cloud tiering, S3 API, and more.</p>
     </td>
   </tr>
@@ -117,9 +117,7 @@
 
 ### AI & Machine Learning
 <p align="left">
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="48" height="48"/>
-  </a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">LangChain</a>
   <img src="https://skillicons.dev/icons?i=tensorflow" alt="AI Tools" />
 </p>
 
