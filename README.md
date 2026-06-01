@@ -39,14 +39,22 @@
     </td>
     <td width="50%">
       <h3 align="center">
+        <a href="https://github.com/dsd2077/CyberVerse" target="_blank">
+          <img src="https://raw.githubusercontent.com/dsd2077/CyberVerse/main/docs/assets/logo.png" alt="CyberVerse" width="28" height="28" style="vertical-align: middle; margin-right: 8px;" />CyberVerse
+        </a>
+      </h3>
+      <p align="center">Open-source real-time digital-human Agent framework with WebRTC, persona memory, tools, RAG, and optional avatar video.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">
         <a href="https://github.com/dsd2077/FeedSwitch" target="_blank">
           <img src="https://lh3.googleusercontent.com/kRusJet3La1D0d5gj92wrahSPqnl9pbuCRqN3GElSL9FkrBidperedy0wQmzJIRZenvO2ZJleHJQ0ibfnBxNZtAngg=s120" alt="FeedSwitch" width="28" height="28" style="vertical-align: middle; margin-right: 8px;" />FeedSwitch
         </a>
       </h3>
       <p align="center">Browser extension to manage time spent on websites and block distracting content. Focus on productivity!</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">
         <a href="https://github.com/dsd2077/miniob-2023" target="_blank">
@@ -54,14 +62,6 @@
         </a>
       </h3>
       <p align="center">Relational database implementation project. Deep dive into database internals with C++.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">
-        <a href="https://github.com/dsd2077/seaweedfs" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/11985425?s=200&v=4" alt="SeaweedFS" width="28" height="28" style="vertical-align: middle; margin-right: 8px;" />SeaweedFS
-        </a>
-      </h3>
-      <p align="center">Fast distributed storage system for blobs, objects, and files. Supporting cloud tiering, S3 API, and more.</p>
     </td>
   </tr>
 </table>
@@ -126,6 +126,5 @@
 </p>
 
 ---
-
 
 
