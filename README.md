@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **[Chaterm](https://github.com/dsd2077/Chaterm)** - Smart, agentic, security AI terminal for DevOps and cloud practitioners
+- 🔭 Currently working on **[Chaterm](https://github.com/chaterm/Chaterm)** - Smart, agentic, security AI terminal for DevOps and cloud practitioners
 
 - 🌱 Currently learning **Agentic AI Systems & Distributed Systems**
 
@@ -31,7 +31,7 @@
   <tr>
     <td width="50%">
       <h3 align="center">
-        <a href="https://github.com/dsd2077/Chaterm" target="_blank">
+        <a href="https://github.com/chaterm/Chaterm" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/206796645?v=4" alt="Chaterm" width="28" height="28" style="vertical-align: middle; margin-right: 8px;" />Chaterm
         </a>
       </h3>
